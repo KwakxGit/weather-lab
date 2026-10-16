@@ -1,3 +1,2 @@
 ── app-config.txt ──
 DEFAULT_CITY=Seoul,KR
-UNITS
